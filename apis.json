@@ -1,0 +1,77 @@
+{
+    "name": "evvnt",
+    "description": "Invite the World to your Events - The Best Place to Promote Your Events Online",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1288-evvnt.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/evvnt\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "evvnt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1288-evvnt.jpg",
+            "humanURL": "https:\/\/evvnt.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/evvnt-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.evvnt.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/evvnt.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/evvnt.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/evvnt"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/evvnt.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "sales@evvnt.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@evvnt.com"
+        },
+        {
+            "type": "Email",
+            "url": "accounts@evvnt.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/evvnt"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/evvnt"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/evvnt.com\/"
+        }
+    ]
+}
